@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteDrive", "RemoteDrive\RemoteDrive.csproj", "{72C2BDE2-077B-4FB2-ABCE-6CAD7AF0E291}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteDrive.Framework", "RemoteDrive.Framework\RemoteDrive.Framework.csproj", "{4C70B5D5-D60B-4382-AD3D-5E83CEA8B61B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteDrive.Provider.Perforce", "RemoteDrive.Provider.Perforce\RemoteDrive.Provider.Perforce.csproj", "{D8291D03-607F-4AD4-A633-540C59AD4EB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72C2BDE2-077B-4FB2-ABCE-6CAD7AF0E291}.Debug|x64.ActiveCfg = Debug|x64
+		{72C2BDE2-077B-4FB2-ABCE-6CAD7AF0E291}.Debug|x64.Build.0 = Debug|x64
+		{72C2BDE2-077B-4FB2-ABCE-6CAD7AF0E291}.Release|x64.ActiveCfg = Release|x64
+		{72C2BDE2-077B-4FB2-ABCE-6CAD7AF0E291}.Release|x64.Build.0 = Release|x64
+		{4C70B5D5-D60B-4382-AD3D-5E83CEA8B61B}.Debug|x64.ActiveCfg = Debug|x64
+		{4C70B5D5-D60B-4382-AD3D-5E83CEA8B61B}.Debug|x64.Build.0 = Debug|x64
+		{4C70B5D5-D60B-4382-AD3D-5E83CEA8B61B}.Release|x64.ActiveCfg = Release|x64
+		{4C70B5D5-D60B-4382-AD3D-5E83CEA8B61B}.Release|x64.Build.0 = Release|x64
+		{D8291D03-607F-4AD4-A633-540C59AD4EB3}.Debug|x64.ActiveCfg = Debug|x64
+		{D8291D03-607F-4AD4-A633-540C59AD4EB3}.Debug|x64.Build.0 = Debug|x64
+		{D8291D03-607F-4AD4-A633-540C59AD4EB3}.Release|x64.ActiveCfg = Release|x64
+		{D8291D03-607F-4AD4-A633-540C59AD4EB3}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F3321A2-4572-44F0-B7F3-BD0E79433A1E}
+	EndGlobalSection
+EndGlobal
